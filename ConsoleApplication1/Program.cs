@@ -19,7 +19,7 @@ namespace practice
 
             ftp.GetFullName();
             ftp.PrintPay();
-            Console.WriteLine("Press enter to close...");
+            Console.WriteLine("Press enter to close");
             Console.ReadLine();
 
         }
